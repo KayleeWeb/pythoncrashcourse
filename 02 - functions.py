@@ -23,3 +23,6 @@ hello_world()
 # BREAK IT:
 # What happens if you move the hello_world() call above the definition of hello_world?
 # Test and see. Why do you think the error occurs?
+
+print("hello world")
+hello_wold()
